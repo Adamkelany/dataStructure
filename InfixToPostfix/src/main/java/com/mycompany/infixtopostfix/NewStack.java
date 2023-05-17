@@ -6,7 +6,7 @@ package com.mycompany.infixtopostfix;
 
 /**
  *
- * @author AGHA SMART STORE
+ * @author Adam Kelany
  */
 public class NewStack {
     private char[] arr;
